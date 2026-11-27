@@ -1,4 +1,4 @@
-# 🐍 Python Internship – Day 2
+# 🐍 Internship – Day 2
 ### Loops | Data Structures | Functions
 
 <p align="center">
