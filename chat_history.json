@@ -1,0 +1,42 @@
+[
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "bot",
+        "content": "Hi! How are you?"
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "bot",
+        "content": "Hi! How are you?"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "bot",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "how are you?"
+    },
+    {
+        "role": "bot",
+        "content": "I am fine!"
+    },
+    {
+        "role": "user",
+        "content": "bye"
+    },
+    {
+        "role": "bot",
+        "content": "Goodbye!"
+    }
+]
